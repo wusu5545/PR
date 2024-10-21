@@ -1,0 +1,4 @@
+NearestNeighbor@ @ @N
+kNearestNeighbor@Num of nearest neighbors:@3@S
+LinearLogisticRegression@ @ @N
+None@ @ @N
